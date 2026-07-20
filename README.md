@@ -78,6 +78,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Mainak-2006/leetcode/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Mainak-2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Matrix
 |  |
 | ------- |
@@ -86,4 +87,16 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Mainak-2006/leetcode/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Mainak-2006/leetcode/tree/master/1386-cinema-seat-allocation) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Mainak-2006/leetcode/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Mainak-2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
