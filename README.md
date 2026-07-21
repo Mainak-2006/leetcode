@@ -99,4 +99,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Mainak-2006/leetcode/tree/master/1386-cinema-seat-allocation) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mainak-2006/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mainak-2006/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
