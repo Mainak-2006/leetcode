@@ -77,6 +77,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Mainak-2006/leetcode/tree/master/0027-remove-element) |
 | [1260-shift-2d-grid](https://github.com/Mainak-2006/leetcode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Mainak-2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Matrix
@@ -107,4 +108,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mainak-2006/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Mainak-2006/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
