@@ -114,6 +114,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mainak-2006/leetcode/tree/master/0027-remove-element) |
+| [0234-palindrome-linked-list](https://github.com/Mainak-2006/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,8 +127,14 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mainak-2006/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Mainak-2006/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mainak-2006/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Mainak-2006/leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Mainak-2006/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
