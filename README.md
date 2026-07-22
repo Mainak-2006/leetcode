@@ -122,4 +122,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mainak-2006/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mainak-2006/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mainak-2006/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
