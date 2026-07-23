@@ -81,6 +81,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 | [1260-shift-2d-grid](https://github.com/Mainak-2006/leetcode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Mainak-2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mainak-2006/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mainak-2006/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +102,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Mainak-2006/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mainak-2006/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
 | ------- |
@@ -137,4 +139,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Mainak-2006/leetcode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mainak-2006/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
