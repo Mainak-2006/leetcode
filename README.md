@@ -147,4 +147,9 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It motiv
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mainak-2006/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mainak-2006/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mainak-2006/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Mainak-2006/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
